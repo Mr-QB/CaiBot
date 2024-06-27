@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cai/catkin_ws/src/CaiBot/build/devel/setup.sh
